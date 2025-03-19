@@ -4,6 +4,7 @@
 This project utilizes **Long Short-Term Memory (LSTM) Neural Networks** for **time-series forecasting** to predict **General Electric (GE) stock prices**. By leveraging deep learning methodologies, we trained an LSTM model using **historical stock price data** to evaluate its effectiveness in forecasting price movements. The model was developed using **Python, Keras, TensorFlow, and Pandas**, ensuring robust analysis and prediction accuracy.
 
 📄 **Detailed Report:** [GE Price Prediction - Corporate Finance](https://github.com/Swasti28/Stock-Price-Prediction-Using-LSTM-General-Electric-GE-Forecasting/blob/main/GE%20Price%20Prediction%20-%20Corporate%20Finance.pdf)
+
 📄 **Project Presentation:** [General Electric Stock Prediction Presentation](https://github.com/Swasti28/Stock-Price-Prediction-Using-LSTM-General-Electric-GE-Forecasting/blob/main/General%20Electric%20-FIN600001.pptx)
 
 ---
